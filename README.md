@@ -18,6 +18,9 @@ none028@gmail.com,1234
 !@#!@#@gmail.com,123124
 ```
 Run: python validEmail.py -t test.txt -l 1 -o "my_data"
+```
+python validEmail.py -t test.txt -l 1 -o "my_data"
+```
 Output: 2020-09-12_my_data.csv
 ```
 none028@gmail.com,1234
